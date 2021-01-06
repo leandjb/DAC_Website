@@ -88,8 +88,9 @@ hr {
   height: 380px;
 }
 
-.hr .a .button .is-primary {
-  height: 380px;
-  background: #239636;
+.box {
+  background: #020202;
   color: white;
 }
+
+
