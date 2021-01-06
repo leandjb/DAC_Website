@@ -87,3 +87,9 @@ hr {
 .blog-posts .post .featured .featured-image img {
   height: 380px;
 }
+
+.hr .a .button .is-primary {
+  height: 380px;
+  background: #239636;
+  color: white;
+}
